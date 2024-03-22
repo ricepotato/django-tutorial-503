@@ -1,4 +1,9 @@
 {
-    "python.analysis.typeCheckingMode": "basic",
-    "editor.formatOnSave": true
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.formatOnSave": true,
+  "unibeautify.enabled": true,
+  "[django-html]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Glavin001.unibeautify-vscode"
+  }
 }
