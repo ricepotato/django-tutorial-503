@@ -5,5 +5,12 @@
   "[django-html]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "Glavin001.unibeautify-vscode"
+  },
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "gitlens.codeLens.symbolScopes": ["!Module"],
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "ms-python.black-formatter"
   }
 }
