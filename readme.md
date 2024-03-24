@@ -121,3 +121,7 @@ https://docs.djangoproject.com/ko/5.0/topics/async/
 ### F() expression
 
 https://docs.djangoproject.com/ko/5.0/ref/models/expressions/#avoiding-race-conditions-using-f
+
+### Introducing automated testing
+
+https://docs.djangoproject.com/ko/5.0/intro/tutorial05/
