@@ -113,3 +113,15 @@ True
 >>> c = q.choice_set.filter(choice_text__startswith="Just hacking")
 >>> c.delete()
 ```
+
+### 비동기 지원
+
+https://docs.djangoproject.com/ko/5.0/topics/async/
+
+### F() expression
+
+https://docs.djangoproject.com/ko/5.0/ref/models/expressions/#avoiding-race-conditions-using-f
+
+### Introducing automated testing
+
+https://docs.djangoproject.com/ko/5.0/intro/tutorial05/
