@@ -125,3 +125,7 @@ https://docs.djangoproject.com/ko/5.0/ref/models/expressions/#avoiding-race-cond
 ### Introducing automated testing
 
 https://docs.djangoproject.com/ko/5.0/intro/tutorial05/
+
+### Asynchronous support
+
+https://docs.djangoproject.com/en/dev/topics/async/
